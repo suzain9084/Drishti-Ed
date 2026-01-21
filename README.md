@@ -8,6 +8,10 @@ When the learner looks **bored or disengaged**, Drishti-Ed can **inject a quick 
 
 ---
 
+## Live Demo
+🚀 Live application: https://drishti-ed.onrender.com/
+
+
 ## Core Idea & Problem Statement
 
 - **Problem**: Most online education in India (Zoom / YouTube / recorded lectures) is **passive**.  
